@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "package for portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.logs(\"Hello\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jphan169/nodejs-test.git"
+  },
+  "author": "Jphan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jphan169/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/jphan169/nodejs-test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
